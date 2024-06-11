@@ -1,1 +1,5 @@
 ![alt text](https://github.com/bungikhwan/smarpath/blob/master/readme.md/Commit.png)
+![alt text](https://github.com/bungikhwan/smarpath/blob/master/readme.md/add%20file.png)
+![alt text](https://github.com/bungikhwan/smarpath/blob/master/readme.md/log%20status.png)
+![alt text](https://github.com/bungikhwan/smarpath/blob/master/readme.md/push.png.png)
+![alt text](https://github.com/bungikhwan/smarpath/blob/master/readme.md/status.png)
